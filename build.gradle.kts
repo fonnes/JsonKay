@@ -4,9 +4,8 @@
  * This generated file contains a sample Kotlin library project to get you started.
  */
 
-group = "JsonKay"
+group = "fonnes.JsonKay"
 version = 1.0
-
 
 plugins {
     // Apply the Kotlin JVM plugin to add support for Kotlin.
@@ -25,7 +24,7 @@ publishing {
 
     publications {
         create<MavenPublication>("maven") {
-            groupId = "JsonKay"
+            groupId = "fonnes.JsonKay"
             artifactId = "JsonKay"
             version = "1.0"
 

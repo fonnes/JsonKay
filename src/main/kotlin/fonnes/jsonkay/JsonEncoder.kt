@@ -1,4 +1,4 @@
-package myKek
+package fonnes.jsonkay
 
 import org.json.JSONObject
 import java.util.UUID
